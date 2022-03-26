@@ -1,0 +1,15 @@
+[
+  {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "string",
+    "created_at": "2022-03-26 16:26:25.879070",
+    "updated_at": "2022-03-26 21:26:33.894000+00:00",
+    "by": {
+      "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "email": "user@example.com",
+      "first_name": "string",
+      "last_name": "string",
+      "birthday": "2022-03-26"
+    }
+  }
+]

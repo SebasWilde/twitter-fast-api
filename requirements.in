@@ -1,0 +1,7 @@
+# Pip usefully
+pip-tools
+
+# Fast API
+fastapi
+uvicorn
+pydantic[email]
